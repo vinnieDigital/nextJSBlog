@@ -28,3 +28,8 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+/.vs/nextjs-blog/FileContentIndex/043528e1-824d-4791-b2c4-94357cce9793.vsidx
+/.vs/nextjs-blog/FileContentIndex
+/.vs/nextjs-blog/v17/.wsuo
+/.vs/slnx.sqlite
+/.vs/nextjs-blog/config/applicationhost.config
